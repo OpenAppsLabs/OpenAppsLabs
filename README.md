@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there 👋 I’m Rajat
 
-<!--
-**OpenAppsLabs/OpenAppsLabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
+I’m learning Android development and exploring AI — just for fun and growth. I build open-source Android apps, aiming for clean, maintainable code and continuous learning.  
+I previously worked in web development (AEM); now I’m shifting my focus to Android and mobile-first ideas.
 
-Here are some ideas to get you started:
+## 🛠 What I’m Working On  
+- Android apps — currently working on [Jotter](https://github.com/OpenAppsLabs/Jotter)  
+- Learning new Android frameworks, best practices, and exploring AI in mobile apps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills & Interests  
+**Languages / Tools:** Kotlin · Java · Jetpack Compose · AEM  
+**Interests:** Android · AI / Machine Learning · Clean Architecture · Open-Source  
+
+## 📂 Projects  
+| Project | Description |
+|--------|-------------|
+| **Jotter** | Simple open-source notes app (Android) — my first mobile app project |
+
+## 🤝 Let’s Connect  
+Happy to collaborate, share ideas, or just chat. Feel free to explore my repos or reach out anytime.
+
+> “Every line of code is a step forward in my learning journey. (Probably)”
