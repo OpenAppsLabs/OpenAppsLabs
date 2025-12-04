@@ -1,4 +1,4 @@
-# Hi there 👋 I’m Rajat
+# Hi there 👋 I’m rajat
 
 ## 🚀 About Me  
 I’m learning Android development and exploring AI — just for fun and growth. I build open-source Android apps, aiming for clean, maintainable code and continuous learning.  
