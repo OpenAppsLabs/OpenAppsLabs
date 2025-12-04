@@ -10,3 +10,8 @@ Now I am making Open Apps - Bunch of open source , useful apps.
 | **Jotter** | Simple open-source notes app (Android) — my first mobile app project |
 
 > “Every line of code is a step forward in my learning journey. (Probably)”
+
+### ❤️ Support My Work
+
+[![Liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/openappslabs)
+[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/openappslabs)
