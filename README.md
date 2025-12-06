@@ -13,5 +13,6 @@ Now I am making Open Apps - Bunch of open source , useful apps.
 
 ### ❤️ Support My Work
 
-[![Liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/openappslabs)
-[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/openappslabs)
+[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=000000)](https://www.buymeacoffee.com/openappslabs)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-46b3e6?style=flat&logo=ko-fi&logoColor=ffffff)](https://ko-fi.com/openappslabs)
+[![Liberapay](https://img.shields.io/badge/Liberapay-f6c915?style=flat&logo=liberapay&logoColor=000000)](https://liberapay.com/openappslabs)
