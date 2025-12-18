@@ -8,7 +8,7 @@ Now I am making Open Apps - Bunch of open source , useful apps.
 | Project | Description |
 |---------|-------------|
 | **[Jotter](https://github.com/OpenAppsLabs/Jotter)** | Jotter - A minimal notes application |
-| **[5G](https://github.com/openappslabs/5G)** | 5G - Network Mode Switcher & Force NR Only. |
+| **[5G](https://github.com/OpenAppsLabs/5G)** | 5G - Network Mode Switcher & Force NR Only. |
 
 ### ❤️ Support My Work
 
