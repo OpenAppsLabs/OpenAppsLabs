@@ -6,10 +6,9 @@ Now I am making Open Apps - Bunch of open source , useful apps.
 
 ## 📂 Projects  
 | Project | Description |
-|--------|-------------|
-| **Jotter** | Simple open-source notes app (Android) — my first mobile app project |
-
-> “Every line of code is a step forward in my learning journey. (Probably)”
+|---------|-------------|
+| **[Jotter](https://github.com/OpenAppsLabs/Jotter)** | Jotter - A minimal notes application |
+| **[5G](https://github.com/openappslabs/5G)** | 5G - Network Mode Switcher & Force NR Only. |
 
 ### ❤️ Support My Work
 
