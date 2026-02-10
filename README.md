@@ -1,8 +1,9 @@
 # 👋 Hi there,
 
-I’m learning Android development and exploring AI — just for fun and growth. I build open-source Android apps, aiming for clean, maintainable code and continuous learning.  
-I previously worked in web development (AEM); now I’m shifting my focus to Android and mobile-first ideas. I use AI in dev.
-Now I am making Open Apps - Bunch of open source , useful apps.
+
+I build **open-source Android apps**.
+Former web dev (AEM).  
+Now focused on Android and useful open apps.
 
 ## 📂 Projects
 
