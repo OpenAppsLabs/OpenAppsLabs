@@ -47,7 +47,9 @@ body {
   font-family: var(--font-sans);
   line-height: 1.6;
   -webkit-font-smoothing: antialiased;
-  transition: background-color 0.3s ease, color 0.3s ease;
+  transition:
+    background-color 0.3s ease,
+    color 0.3s ease;
 }
 
 a {
@@ -244,9 +246,13 @@ h1 {
   flex-direction: column;
   justify-content: space-between;
   min-height: 350px;
-  transition: transform 0.3s ease, background-color 0.3s ease;
+  transition:
+    transform 0.3s ease,
+    background-color 0.3s ease;
   height: 100%;
   border: 1px solid transparent;
+  position: relative;
+  overflow: hidden;
 }
 
 .widget:hover {
@@ -568,4 +574,53 @@ footer {
   pointer-events: none;
   opacity: 0.5;
   cursor: not-allowed;
+}
+
+/* =========================================
+   AURORA EFFECT
+   ========================================= */
+
+.widget.aurora {
+  position: relative;
+  overflow: hidden;
+}
+
+.widget.aurora::before {
+  content: '';
+  position: absolute;
+  inset: -50%;
+  background:
+    radial-gradient(circle at 30% 40%, #6ed6ff, transparent 40%),
+    radial-gradient(circle at 70% 60%, #a87cff, transparent 40%),
+    radial-gradient(circle at 50% 80%, #7aa2ff, transparent 40%);
+  filter: blur(80px);
+  opacity: 0.45;
+  animation: auroraFlow 14s linear infinite;
+  pointer-events: none;
+}
+
+@keyframes auroraFlow {
+  0% {
+    transform: rotate(0deg) translateX(-10%);
+  }
+  50% {
+    transform: rotate(180deg) translateX(10%);
+  }
+  100% {
+    transform: rotate(360deg) translateX(-10%);
+  }
+}
+
+.widget.aurora > * {
+  position: relative;
+  z-index: 1;
+}
+
+.widget.aurora:hover::before {
+  opacity: 0.65;
+  filter: blur(90px);
+}
+
+.widget.aurora {
+  box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.03) inset;
 }
