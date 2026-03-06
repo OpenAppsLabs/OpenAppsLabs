@@ -2,16 +2,16 @@
 
 
 I build **open-source Android apps**.
-Former web dev (AEM).  
-Now focused on Android and useful open apps.
+Former web dev (AEM). Just building whatever I like.
 
 ## 📂 Projects
 
 | Project                                              | Description                                 |
 | ---------------------------------------------------- | ------------------------------------------- |
-| **[Jotter](https://github.com/OpenAppsLabs/Jotter)** | Jotter - Not Just Another Notes App.       |
+| **[Jotter](https://github.com/OpenAppsLabs/Jotter)** | Jotter - Not Just Another Notes App.        |
 | **[5G](https://github.com/OpenAppsLabs/5G)**         | 5G - Network Mode Switcher & Force NR Only. |
 | **[Coffee](https://github.com/OpenAppsLabs/Coffee)** | Coffee - Keep Your Screen Awake.            |
+| **[Now Playing](https://github.com/OpenAppsLabs/NowPlaying)** | Now Playing - Not Tagline Needed (Yet).|
 
 ### ❤️ Support My Work
 
