@@ -1,6 +1,6 @@
 # 👋 Hi there,
 
-I build **open-source Android apps**.
+I build **open-source Android apps and some more stuff**.
 Former web dev (AEM). 
 Not really native android developer but just building whatever I like.
 
