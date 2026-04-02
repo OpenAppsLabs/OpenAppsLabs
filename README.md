@@ -1,4 +1,4 @@
-# 👋 Hi there,
+# Hi there
 
 I build **open-source apps and some more stuff**.
 Former web dev (AEM). 
