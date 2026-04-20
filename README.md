@@ -12,7 +12,7 @@ Not really native android developer but just building whatever I like.
 | **[5G](https://github.com/OpenAppsLabs/5G)**         | 5G - Network Mode Switcher & Force NR Only. |
 | **[Coffee](https://github.com/OpenAppsLabs/Coffee)** | Coffee - Keep Your Screen Awake.            |
 | **[Now Playing](https://github.com/OpenAppsLabs/NowPlaying)** | Now Playing - Music Recognition, Simplified.|
-| **[Open Tab](https://github.com/OpenAppsLabs/Open-Tab)** | Open Tab - Minimal Replacement For Your Browsers New Tab |
+| **[New Tab](https://github.com/OpenAppsLabs/New-Tab)** | Open Tab - Minimal Replacement For Your Browsers New Tab |
 
 ### ❤️ Support My Work
 
