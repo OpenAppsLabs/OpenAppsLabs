@@ -1,3 +1,7 @@
+## I will drop new apps and updates once I get enough response so I will know my work isn't going to waste. 
+I'd appreciate follow and stars on repos.
+Im not begging, I have full time job, this is just my hobby.
+
 # Hi there
 
 I build **open-source apps and some more stuff**.
